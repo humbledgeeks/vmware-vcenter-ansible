@@ -9,7 +9,7 @@
 # Date    : 2026-03-16
 # Version : 1.0
 # Collection : community.vmware
-# Repo    : infra-automation/VMware/vCenter/Ansible
+# Repo    : vmware-vcenter-ansible
 # Usage   : ansible-playbook vcenter-gather-inventory.yml --ask-vault-pass
 # =============================================================================
 

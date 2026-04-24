@@ -54,7 +54,7 @@ The user has requested: **$ARGUMENTS**
     Date    : <today's date>
     Version : 1.0
     Module  : VMware.PowerCLI
-    Repo    : infra-automation/VMware
+    Repo    : vmware-vcenter-ansible
 #>
 ```
 - Always start with `Connect-VIServer` — never assume an active session
